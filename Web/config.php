@@ -6,7 +6,7 @@ $conn_string = "ec2-54-91-188-254.compute-1.amazonaws.com"
 $db = pg_connect($conn_string);
 //connect to a database named "test" on the host "sheep" with a username and password
    if(!$db) {
-      echo "Error : Unable to open database\n";
+      echo "Error : Unable to open database phuc\n";
    } else {
       echo "Opened database successfully phuc\n";
    }
