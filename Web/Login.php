@@ -13,7 +13,7 @@ require_once "config.php";
  $dbconn = pg_connect($conn_string);
 if(isset($_POST['submit'])&&!empty($_POST['submit'])){
     
-    $hashpassword = md5($_POST['pwd']);
+    $hashpassword = md5($_POST['password']);
     $sql ="select *from public.user where email = '".pg_escape_string($_POST['email'])."' and password ='".$hashpassword."'";
     $data = pg_query($dbconn,$sql); 
     $login_check = pg_num_rows($data);
