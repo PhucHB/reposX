@@ -4,7 +4,7 @@ require_once "config.php";
  $dbconn = pg_connect($conn_string);
 if(isset($_POST['submit'])&&!empty($_POST['submit'])){
     
-      $sql = "insert into public.user(name,email,password,mobno)values('".$_POST['Name']."','".$_POST['email']."','".md5($_POST['password'])."','".$_POST['phone number']."')";
+      $sql = "insert into public.User(name,email,password,mobno)values('".$_POST['Name']."','".$_POST['email']."','".md5($_POST['password'])."','".$_POST['phone number']."')";
     $ret = pg_query($dbconn, $sql);
     if($ret){
         
