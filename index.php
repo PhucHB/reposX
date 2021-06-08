@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>PPcycle</title>
+    <title>ATN Vietnamese company </title>
     <script src="https://kit.fontawesome.com/11fe009d3c.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
     <!--css icon-->
@@ -26,8 +26,8 @@
    </ul>
    <div class="clearfix"></div>
     <div class="row">
-       
-         <h1>Product quality and  <br>customer experience are our <br> top priorities <br></h1> <br>
+       <h1>ATN Vietnamese company</h1>
+
     </div>
    </header>
         
@@ -168,7 +168,7 @@
      <hr>
      <ul class="trangchu">
         <h2>San pham noi bac</h2>
-        <section>
+<!--        <section>
          <article>
             <h1>YZF R1</h1>
             <p>R1 2020 hàng nhập khẩu chính hãng</p>
@@ -205,7 +205,7 @@
           <button>Xem chi tiết</button> <br>
           <button>Đặt mua</button>
        </article>
-      </section>
+      </section>-->
      </ul>
      <ul>
         <div class="NEWS">
@@ -225,15 +225,15 @@
      <div class="ending">
       <div class="row">
          <div class="col span-1-of-4">
-            <h3>can mua xe</h3>
-            <a href="#">tin bán xe mơi</a> <br>
-            <a href="#">xe cũ</a> <br>
-            <a href="#">trả góp</a>
+            <h3>...</h3>
+            <a href="#">...</a> <br>
+            <a href="#">...</a> <br>
+            <a href="#">...</a>
          </div>
          <div class="col span-2-of-4">
-            <h3> can ban xe</h3>
-            <a href="#">định giá</a> <br>
-            <a href="#">đăng kí thời gian bán</a>
+            <h3>...</h3>
+            <a href="#">...</a> <br>
+            <a href="#">...</a>
         </div>
         <div class="col span-3-of-4">
          <h3> NEWS</h3>
